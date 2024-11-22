@@ -1,5 +1,5 @@
 ### 👋 Hello, I'm ShaneYale 
-I’m a Chinese undergraduate majoring in Computer Science and Technology at Hefei University of Technology.During my undergraduate studies, I will share some materials related to my school courses and some small projects that interest me. I'm still a beginner, so if you have any questions, feel free to contact me through my email zeta186012@gmail.com
+I’m a Chinese undergraduate majoring in Computer Science and Technology at Hefei University of Technology.During my undergraduate studies, I will share some materials related to my school courses and some small projects that interest me. I'm still a beginner, so if you have any questions, feel free to contact me through my email shaneyale@foxmail.com.
 
 - Sports: Maybe playing basketball? (though I am not good at that😭)
 - Commonly Used Programming Language: C / C++ / Python
