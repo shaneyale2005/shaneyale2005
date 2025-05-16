@@ -12,4 +12,4 @@ I'm an undergraduate student majoring in Computer Science and Technology at Hefe
 ### 💻 Internship Experience
 - Currently seeking internship opportunities to apply and expand my technical skills
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zeta186012&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zeta186012&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
