@@ -2,7 +2,7 @@
 
 I'm an undergraduate student majoring in Computer Science and Technology at Hefei University of Technology. As I'm still in the early stages of my learning path, I welcome any questions or discussions - feel free to reach me at shaneyale@mail.hfut.edu.cn.
 
-- **Interests:** Machine Learning, Large Language Model(LLM), Multimodal LLM, AI for Science  
+- **Interests:** Large Language Model(LLM), Multimodal LLM, AI for Science  
 - **Skills:** C/C++, Python, Pytorch, Shell Scripting, LaTeX
 - **Hobbies:** Hiking, Photography
 
