@@ -21,7 +21,7 @@ I'm in the early stages and welcome any questions or discussions - feel free to 
 
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=github,huggingface,youtube,x,facebook,instagram,reddit)
 
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=gemini,chatgpt,deepseek,claude,githubcopilot,microsoftcopilot,ollama)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=deepseek,gemini,chatgpt,claude,githubcopilot,microsoftcopilot,ollama)
 
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=latex,markdown,html,css)
 
