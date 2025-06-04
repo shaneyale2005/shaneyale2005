@@ -27,6 +27,12 @@ I'm still in the early stages and welcome any questions or discussions - feel fr
 
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=lightroomclassic,photoshop)
 
+### 🏆 Honors and Awards
+- 2024 **National Scholarship** (**2%**)
+- 2024 **First Prize Scholaship** at Hefei University of Technology (**2%**)
+- 2024 **Merit Student** (**10%**)
+- 2025 **Outstanding student**
+
 ### 📖 Education Experience
 - **2023 - Present** | B.Eng in Computer Science and Technology, Hefei University of Technology (HFUT)
 
