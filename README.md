@@ -17,7 +17,7 @@ I'm in the early stages and welcome any questions or discussions - feel free to 
 
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=python,jupyter,cuda,cpp,c,js)
 
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=pytorch,anaconda,git,github,docker,bash,cmake)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=pytorch,anaconda,git,docker,bash,cmake)
 
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=github,huggingface,youtube,x,facebook,instagram,reddit)
 
