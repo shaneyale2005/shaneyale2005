@@ -1,13 +1,34 @@
-<h2 align="center">👋 Hello! I'm Shane Yale(鑫业).</h2>
+<h1 align="center"> 🤖I do research in AI</h1>
+<h3 align="center">👋 Hello! I'm Shane Yale (鑫业)</h3>
 
-I'm an undergraduate student majoring in Computer Science and Technology at Hefei University of Technology. As I'm still in the early stages of my learning path, I welcome any questions or discussions - feel free to reach me at shaneyale@mail.hfut.edu.cn.
+I'm an undergraduate student majoring in Computer Science and Technology at Hefei University of Technology 🎓    
+I'm still in the early stages and welcome any questions or discussions - feel free to reach me at shaneyale@mail.hfut.edu.cn 📧
 
-- **Interests:** Large Language Model(LLM), Multimodal LLM, AI for Science  
-- **Skills:** C/C++, Python, Pytorch, Shell Scripting, LaTeX
-- **Hobbies:** Hiking, Photography
+- **Research Field:** Large Language Model(LLM), Multimodal LLM, AI for Science  
+- **My Hobbies:** Mountain climbing  🧗, Hiking 🥾 , Photography📸
 
-### 📖 Education
-- **2023 - Present** | B.Eng in Computer Science and Technology, Hefei University of Technology
+### 🧠 Daily
+
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=vscode,vim,neovim)
+
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=gcp,googlecolab,gmail,onedrive)
+
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=apple,nvidia,ubuntu,arch,windows)
+
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=python,jupyter,cuda,cpp,c,js)
+
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=pytorch,anaconda,git,github,docker,bash,cmake)
+
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=github,huggingface,youtube,x,facebook,instagram,reddit)
+
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=gemini,chatgpt,deepseek,claude,githubcopilot,microsoftcopilot,ollama)
+
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=latex,markdown,html,css)
+
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=lightroomclassic,photoshop)
+
+### 📖 Education Experience
+- **2023 - Present** | B.Eng in Computer Science and Technology, Hefei University of Technology (HFUT)
 
 ### 💻 Internship Experience
 - Currently seeking internship opportunities to apply and expand my technical skills
