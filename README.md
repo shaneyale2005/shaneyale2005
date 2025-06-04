@@ -1,4 +1,4 @@
-<h1 align="center"> 🤖I do research in AI</h1>
+<h1 align="center"> 🤖 I do research in AI</h1>
 <h3 align="center">👋 Hello! I'm Shane Yale (鑫业)</h3>
 
 I'm an undergraduate student majoring in Computer Science and Technology at Hefei University of Technology 🎓    
