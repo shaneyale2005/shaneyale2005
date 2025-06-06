@@ -1,11 +1,11 @@
 <h1 align="center"> 🤖 I do research in AI</h1>
-<h3 align="center">👋 Hello! I'm Shane Yale (鑫业)</h3>
+<h3 align="center"> 👋 Hello! I'm Shane Yale (鑫业)</h3>
 
 I'm an undergraduate student majoring in Computer Science and Technology at Hefei University of Technology 🎓    
 I'm in the early stages and welcome any questions or discussions - feel free to reach me at shaneyale@mail.hfut.edu.cn 📧
 
 - **Research Field:** Natural Language Processing, Large Language Model(LLM), Multimodal LLM, AI for Science  
-- **My Hobbies:** Mountain climbing  🧗, Hiking 🥾 , Photography📸
+- **My Hobbies:** Mountain climbing  🧗, Hiking 🥾 , Photography 📸
 
 ### 🧠 Daily
 
