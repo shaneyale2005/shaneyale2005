@@ -41,7 +41,7 @@ I'm in the early stages and welcome any questions or discussions - feel free to 
 
 ---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zeta186012&layout=compact&card_width=470)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shaneyale2005&layout=compact&card_width=470)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zeta186012&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shaneyale2005&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
