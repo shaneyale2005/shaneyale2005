@@ -9,7 +9,7 @@ I'm in the early stages and welcome any questions or discussions - feel free to 
 
 ### 🧠 Daily
 
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=vscode,vim,neovim)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=vim,neovim,vscode)
 
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=gcp,googlecolab,gmail,onedrive)
 
