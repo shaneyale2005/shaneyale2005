@@ -30,7 +30,7 @@ I'm in the early stages and welcome any questions or discussions - feel free to 
 ### 🏆 Honors and Awards
 - 2024 **National Scholarship** (**2%**)
 - 2024 **First Prize Scholaship** at Hefei University of Technology (**2%**)
-- 2024 **Merit Student** (**10%**)
+- 2024 **Merit Student** 
 - 2025 **Outstanding student**
 
 ### 📖 Education Experience
