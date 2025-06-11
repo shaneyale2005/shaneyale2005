@@ -9,23 +9,23 @@ I'm in the early stages and welcome any questions or discussions - feel free to 
 
 ### 🧠 Daily
 
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=vim,neovim,vscode)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=vim,neovim,vscode&theme=dark)
 
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=gcp,googlecolab,gmail,onedrive)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=gcp,googlecolab,gmail,onedrive&theme=dark)
 
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=apple,nvidia,ubuntu,arch,windows)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=apple,nvidia,ubuntu,arch,windows&theme=dark)
 
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=python,jupyter,cuda,cpp,c,js)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=python,jupyter,cuda,cpp,c,js&theme=dark)
 
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=pytorch,anaconda,git,docker,bash,cmake)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=pytorch,anaconda,git,docker,bash,cmake&theme=dark)
 
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=github,huggingface,youtube,x,facebook,instagram,reddit)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=github,huggingface,youtube,x,facebook,instagram,reddit&theme=dark)
 
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=deepseek,gemini,chatgpt,claude,githubcopilot,microsoftcopilot,ollama)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=deepseek,gemini,chatgpt,claude,githubcopilot,microsoftcopilot,ollama&theme=dark)
 
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=latex,markdown,html,css)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=latex,markdown,html,css&theme=dark)
 
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=lightroomclassic,photoshop)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=lightroomclassic,photoshop&theme=dark)
 
 ### 🏆 Honors and Awards
 - 2024 **National Scholarship** (**2%**)
