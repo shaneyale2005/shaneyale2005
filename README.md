@@ -6,7 +6,7 @@ I'm in the early stages and welcome any questions or discussions - feel free to 
 
 - **Research Field:** Natural Language Processing, Large Language Model(LLM), Multimodal LLM, AI for Science  
 - **My Hobbies:** Mountain climbing  🧗, Hiking 🥾 , Photography 📸
-- **Dream Job：** To be an engineer at Microsoft, Bytedance etc 🤯
+- **Dream Job:** To be an engineer at Microsoft, Bytedance etc 🤯
 
 ### 🧠 Daily
 
