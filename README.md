@@ -1,10 +1,11 @@
 <h1 align="center"> 🤖 I do research in AI</h1>
 <h3 align="center"> 👋 Hello! I'm Shane Yale (鑫业)</h3>
 
-I'm an undergraduate student majoring in Computer Science and Technology at Hefei University of Technology 🎓    
-I'm in the early stages and welcome any questions or discussions - feel free to reach me at shaneyale@mail.hfut.edu.cn 📧
+I'm an undergraduate student majoring in Computer Science @ Hefei University of Technology 🎓    
+I'm in the early stages and welcome any questions or discussions - feel free to reach me at [shaneyale@mail.hfut.edu.cn](shaneyale@mail.hfut.edu.cn) 📧
+You can find me more at [https://shaneyale2005.github.io/](https://shaneyale2005.github.io/)
 
-- **Research Field:** Natural Language Processing, Large Language Model(LLM), Multimodal LLM, AI for Science  
+- **Research Field:** Large Language Model(LLM), Multimodal LLM, AI for Science  
 - **My Hobbies:** Mountain climbing  🧗, Hiking 🥾 , Photography 📸
 - **Dream Job:** To be an engineer at Microsoft, Bytedance etc 🤯
 
@@ -28,17 +29,6 @@ I'm in the early stages and welcome any questions or discussions - feel free to 
 
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=lightroomclassic,photoshop&theme=dark)
 
-### 🏆 Honors and Awards
-- 2024 **National Scholarship** (**2%**)
-- 2024 **First Prize Scholaship** at Hefei University of Technology (**2%**)
-- 2024 **Merit Student** 
-- 2025 **Outstanding student**
-
-### 📖 Education Experience
-- **2023 - Present** | B.Eng in Computer Science and Technology, Hefei University of Technology (HFUT)
-
-### 💻 Internship Experience
-- Currently seeking internship opportunities to apply and expand my technical skills
 
 ---
 
