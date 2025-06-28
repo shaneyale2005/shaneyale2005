@@ -11,7 +11,7 @@ You can find me more at [https://shaneyale2005.github.io](https://shaneyale2005.
 
 ### 🧠 Daily
 
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=vim,neovim,pycharm,vscode)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=vim,neovim,vscode)
 
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=gcp,googlecolab,gmail,onedrive)
 
