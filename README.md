@@ -1,7 +1,7 @@
 <h1 align="center"> 🤖 I do research in AI</h1>
 <h3 align="center"> 👋 Hello! I'm Shane Yale (鑫业)</h3>
 
-I'm an undergraduate student majoring in Computer Science @ Hefei University of Technology 🎓    
+I'm an undergraduate student majoring in Computer Science and Technology @ Hefei University of Technology 🎓    
 I'm in the early stages and welcome any questions or discussions - feel free to reach me at [shaneyale@mail.hfut.edu.cn](shaneyale@mail.hfut.edu.cn) 📧  
 You can find me more at [https://shaneyale2005.github.io](https://shaneyale2005.github.io)
 
@@ -11,23 +11,23 @@ You can find me more at [https://shaneyale2005.github.io](https://shaneyale2005.
 
 ### 🧠 Daily
 
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=vim,neovim,pycharm,vscode&theme=dark)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=vim,neovim,pycharm,vscode)
 
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=gcp,googlecolab,gmail,onedrive&theme=dark)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=gcp,googlecolab,gmail,onedrive)
 
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=apple,nvidia,ubuntu,arch,windows&theme=dark)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=apple,nvidia,ubuntu,arch,windows)
 
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=python,jupyter,cuda,cpp,c,js&theme=dark)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=python,jupyter,cuda,cpp,c,js)
 
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=pytorch,anaconda,git,docker,bash,cmake&theme=dark)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=pytorch,anaconda,git,docker,bash,cmake)
 
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=github,huggingface,youtube,x,facebook,instagram,reddit&theme=dark)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=github,huggingface,youtube,x,facebook,instagram,reddit)
 
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=deepseek,gemini,chatgpt,claude,githubcopilot,microsoftcopilot,ollama&theme=dark)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=deepseek,gemini,chatgpt,claude,githubcopilot,microsoftcopilot,ollama)
 
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=latex,markdown,html,css&theme=dark)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=latex,markdown,html,css)
 
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=lightroomclassic,photoshop&theme=dark)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=lightroomclassic,photoshop)
 
 
 ---
