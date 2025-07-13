@@ -5,10 +5,6 @@ I'm an undergraduate student majoring in Computer Science and Technology @ Hefei
 I'm in the early stages and welcome any questions or discussions - feel free to reach me at [shaneyale@mail.hfut.edu.cn](shaneyale@mail.hfut.edu.cn) 📧  
 You can find me more at [https://shaneyale2005.github.io](https://shaneyale2005.github.io)
 
-- **Research Field:** Large Language Model(LLM), Multimodal LLM, AI for Science  
-- **My Hobbies:** Mountain climbing  🧗, Hiking 🥾 , Photography 📸
-- **Dream Job:** To be an engineer at Microsoft, Bytedance etc 🤯
-
 ### 🧠 Daily
 
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=vim,neovim,vscode&theme=dark)
