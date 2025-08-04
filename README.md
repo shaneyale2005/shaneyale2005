@@ -11,15 +11,13 @@
 
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=vscode,neovim,vim&theme=dark)
 
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=latex,markdown,html,css&theme=dark)
+
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=apple,nvidia,arch,ubuntu,windows&theme=dark)
 
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=python,jupyter,cuda,cpp,c,js&theme=dark)
 
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=pytorch,anaconda,git,docker,bash,cmake&theme=dark)
-
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=latex,markdown,html,css&theme=dark)
-
-
 
 ---
 
