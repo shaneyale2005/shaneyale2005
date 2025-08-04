@@ -7,7 +7,7 @@
 
 ### 🧠 Daily
 
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=vim,neovim,vscode&theme=dark)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=vscode,neovim,vim&theme=dark)
 
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=gcp,googlecolab,gmail,onedrive&theme=dark)
 
@@ -15,15 +15,12 @@
 
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=python,jupyter,cuda,cpp,c,js&theme=dark)
 
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=pytorch,anaconda,git,docker,bash,cmake&theme=dark)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=pytorch,anaconda,git,docker,bash,,zsh,cmake&theme=dark)
 
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=github,huggingface,youtube,x,facebook,instagram,reddit&theme=dark)
 
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=deepseek,gemini,chatgpt,claude,githubcopilot,microsoftcopilot,ollama&theme=dark)
-
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=latex,markdown,html,css&theme=dark)
 
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=lightroomclassic,photoshop&theme=dark)
 
 
 ---
