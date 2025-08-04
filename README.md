@@ -15,7 +15,7 @@
 
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=python,jupyter,cuda,cpp,c,js&theme=dark)
 
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=pytorch,anaconda,git,docker,bash,,zsh,cmake&theme=dark)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=pytorch,anaconda,git,docker,bash,zsh,cmake&theme=dark)
 
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=github,huggingface,youtube,x,facebook,instagram,reddit&theme=dark)
 
