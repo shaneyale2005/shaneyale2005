@@ -7,21 +7,21 @@
 
 ### 🧠 Daily
 
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=github,huggingface&theme=dark)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=github,huggingface)
 
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=vscode,neovim,vim&theme=dark)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=vscode,neovim,vim)
 
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=latex,markdown,html,css&theme=dark)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=latex,markdown,html,css)
 
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=apple,nvidia,arch,ubuntu,windows&theme=dark)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=apple,nvidia,arch,ubuntu,windows)
 
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=python,jupyter,cuda,cpp,c,js&theme=dark)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=python,jupyter,cuda,cpp,c,js)
 
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=pytorch,anaconda,git,docker,bash,cmake&theme=dark)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=pytorch,anaconda,git,docker,bash,cmake)
 
 ---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shaneyale2005&layout=compact&card_width=470&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shaneyale2005&layout=compact&card_width=470)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shaneyale2005&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shaneyale2005&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
