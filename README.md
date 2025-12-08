@@ -19,9 +19,3 @@
 
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=pytorch,anaconda,git,docker,bash,cmake)
 
----
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shaneyale2005&layout=compact&card_width=470)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shaneyale2005&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-
